@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1 {
     class Program {
-        static void Main(string[] args) {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("My first git project");
+            Console.WriteLine("Press enter to exit");
+            Console.ReadLine();
+
         }
     }
 }
